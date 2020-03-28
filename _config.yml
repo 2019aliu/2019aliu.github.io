@@ -1,55 +1,38 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+# site settings
 title: Alex Liu
+subtitle: 
 email: 2019alexliu@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Alex Liu's website! Here, you'll find out all about him,
-  including his current interests and previous projects. Check out his
-  other media platforms, including Github, Linkedin, and Instagram!
+description: |
+  An autodidact interested in computer science
+  and its applications in biotech and sustainability.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://2019aliu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 2019aliu
-github_username:  2019aliu
+url: # the base hostname & protocol for your site
+author: 2019aliu
+street_address: 9908 Mill Run Drive
+city: Great Falls
+state: VA
+zip_code: 22066
+country: United States of America
+phone: (703) 220-5928
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/profile.php?id=100009566604368
+github_url: https://github.com/2019aliu
+gitlab_url: https://gitlab.com/2019aliu
+googleplus_url: 
+instagram_url: https://instagram.com/alexyliu1/
+linkedin_url: https://www.linkedin.com/in/alex-liu-146a47190/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/2019aliu
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
