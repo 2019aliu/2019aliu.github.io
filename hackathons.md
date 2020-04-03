@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackathons
-description: Lorem ipsum dolor est
+description: Projects I've made from hackathons
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
@@ -28,11 +28,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>CoronaDigest (HooHacks 2020)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>CoronaDigest is an informative website about the current situation of the disease Coronavirus, otherwise known as COVID-19. This site includes world maps, daily digests, financial information, health information, and predictions about Coronavirus. I made this because I wanted to equip everyone with internet access to information about Coronavirus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://devpost.com/software/hoohacks2020" class="button">Learn More</a></li>
+					<li><a href="https://coronavirus-digest.herokuapp.com" class="button">Live Website</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +45,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Creating The Next (Hacklytics 2020)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>My first datathon! I wanted to explore how to explore trends using data science. This projected dove into unemployment trends among certain types of demographics as well as world maps. My team discovered interesting trends and made some cool visualizations.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://devpost.com/software/creatingthenext" class="button">Learn more</a></li>
+					<li><a href="https://github.com/2019aliu/CreatingTheNext" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,11 +62,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>FoxStocks (UGAHacks 5)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This hackathon had lots of sponsors who were in the finance industry, so my team choose to participate in a challenge to educate the general public about investing using a web application. We ended up building a game that simulated trading in a market and had multiple levels of difficulty.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://devpost.com/software/foxstocks" class="button">Learn more</a></li>
+					<li><a href="https://github.com/2019aliu/UGAHacks" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +78,12 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>All Hackathon Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Starting from my first semester of college, I started attending more hackathons and in more varied locations. To check out all of the projects I've ever completed, visit my Devpost and GitHub profiles!</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://devpost.com/2019aliu" class="button next">Devpost</a></li>
+			<li><a href="https://github.com/2019aliu" class="button">Github <i class="fa fa-github" style="font-size:36px; vertical-align:middle"></i></a><li>
 		</ul>
 	</div>
 </section>

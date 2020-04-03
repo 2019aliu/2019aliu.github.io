@@ -15,9 +15,12 @@ zip_code: 22066
 country: United States of America
 phone: (703) 220-5928
 
+plugins:
+  - jekyll-google-photos
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 6
 
 # social settings
 500px_url:
