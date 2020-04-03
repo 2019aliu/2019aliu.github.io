@@ -83,7 +83,8 @@ nav-menu: true
 		<p>Starting from my first semester of college, I started attending more hackathons and in more varied locations. To check out all of the projects I've ever completed, visit my Devpost and GitHub profiles!</p>
 		<ul class="actions">
 			<li><a href="https://devpost.com/2019aliu" class="button next">Devpost</a></li>
-			<li><a href="https://github.com/2019aliu" class="button">Github <i class="fa fa-github" style="font-size:36px; vertical-align:middle"></i></a><li>
+			<li><a href="https://github.com/2019aliu" class="button">Github 
+				<i class="fa fa-github" style="font-size:36px; vertical-align:middle"></i></a></li>
 		</ul>
 	</div>
 </section>
