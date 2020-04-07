@@ -2,7 +2,7 @@
 layout: post
 title: Hackathons
 description: Projects I've made from hackathons
-image: assets/images/pic08.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 

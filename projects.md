@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description: Lorem ipsum dolor est
-image: assets/images/pic09.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
