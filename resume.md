@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Résumé
-description: My résumé in PDF and TeX formats
+description: Something something professional work
 image: assets/images/resumeStockPhoto.jpg
 nav-menu: true
 ---

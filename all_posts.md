@@ -1,9 +1,9 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Blog
+landing-title: 'Blog'
 nav-menu: true
-description: null
+description: Everything about my life and this website
 image: null
 author: null
 show_tile: true

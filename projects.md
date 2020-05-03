@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-description: Lorem ipsum dolor est
+description: Look ma, I did a thing
 image: assets/images/pic08.jpg
 nav-menu: true
 ---

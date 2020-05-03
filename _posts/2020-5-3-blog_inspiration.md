@@ -3,6 +3,7 @@ layout: post
 title: Blog Inspiration
 description: Laying out a general outline for this website
 image: assets/images/pic10.jpg
+blog_option: true
 date: 2020-5-3 11:15:59 EDT (UTC-04:00)
 ---
 

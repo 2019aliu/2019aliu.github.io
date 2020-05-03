@@ -3,6 +3,7 @@ layout: post
 title: Website Structure
 description: Laying out a general outline for this website
 image: assets/images/pic03.jpg
+blog_option: true
 date: 2020-5-3 11:02:00 EDT (UTC-04:00)
 ---
 
