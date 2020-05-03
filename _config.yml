@@ -18,6 +18,8 @@ phone: (703) 220-5928
 plugins:
   - jekyll-google-photos
 
+permalink: /:categories/:title/
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6

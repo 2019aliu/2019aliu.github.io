@@ -2,7 +2,7 @@
 layout: post
 title: Résumé
 description: My résumé in PDF and TeX formats
-image: assets/images/pic02.jpg
+image: assets/images/resumeStockPhoto.jpg
 nav-menu: true
 ---
 

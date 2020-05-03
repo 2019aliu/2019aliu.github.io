@@ -4,6 +4,7 @@ title: Hackathons
 description: Projects I've made from hackathons
 image: assets/images/pic09.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
@@ -22,13 +23,30 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/axyyu/hacknow" target="_blank" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>CoronaDigest (HooHacks 2020)</h3>
+					<h3>talk:now (<a href="https://hacknow.calhacks.io">hack:now</a>)</h3>
+				</header>
+				<p>talk:now is a video calling website where anyone facing problems, whether it be a bad day, misfortunate times, struggles with mental or psychological issues, or just feeling sad or anxious, can talk and chat. This site has a video chatting feature and a text chat room. Currently, no signup is needed; just enter a name, a problem category, and a mood on a scale between 1 and 10!</p>
+				<ul class="actions">
+					<li><a href="https://devpost.com/software/talk-now" class="button">Learn More</a></li>
+					<li><a href="https://github.com/axyyu/hacknow" class="button">GitHub</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://coronavirus-digest.herokuapp.com" target="_blank" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>CoronaDigest (<a href="https://hoohacks20.devpost.com">HooHacks 2020</a>)</h3>
 				</header>
 				<p>CoronaDigest is an informative website about the current situation of the disease Coronavirus, otherwise known as COVID-19. This site includes world maps, daily digests, financial information, health information, and predictions about Coronavirus. I made this because I wanted to equip everyone with internet access to information about Coronavirus.</p>
 				<ul class="actions">
@@ -39,23 +57,23 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="https://github.com/2019aliu/CreatingTheNext" target="_blank" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Creating The Next (Hacklytics 2020)</h3>
+					<h3>Creating The Next (<a href="https://hacklytics-2020.devpost.com">Hacklytics 2020</a>)</h3>
 				</header>
 				<p>My first datathon! I wanted to explore how to explore trends using data science. This projected dove into unemployment trends among certain types of demographics as well as world maps. My team discovered interesting trends and made some cool visualizations.</p>
 				<ul class="actions">
 					<li><a href="https://devpost.com/software/creatingthenext" class="button">Learn more</a></li>
-					<li><a href="https://github.com/2019aliu/CreatingTheNext" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/2019aliu/CreatingTheNext" class="button">GitHub</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -71,7 +89,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
