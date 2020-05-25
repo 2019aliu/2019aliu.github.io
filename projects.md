@@ -3,13 +3,14 @@ layout: page
 title: Projects
 description: Look ma, I did a thing
 image: assets/images/stock/pic08.jpg
+style: 5
 nav-menu: true
 ---
 
 <section id="one">
 	<div class="inner">
 		<p>
-			As a computer science major, I've always been interested in exploring various fields. Here is a showcase of those projects.
+			Ever since I seriously picked up computer science as a junior in high school, I've never put it down. Computer science seems to be an ever expanding field with seemingly infinite possibilities, so I like taking some free time to use (and break) these tools. Starting out with the fundamentals, I've learned about data structure and algorithms, website and mobile applications development, data science, artificial intelligence (AI) -- specifically AI, and applications of all of those techniques. Who knows what I might discover in the future? Anyway. Here is a showcase of those projects.
 		</p>
 	</div>
 </section>
@@ -26,6 +27,7 @@ nav-menu: true
 			<br/><br/>
 			From this project, I learned a lot about radio frequency technologies, sockets, and mobile application development, as well as the specific tools I used to implement the application. Developing the app was a bit frustrating at times due to the app getting locked out from calling Google's Nearby Messages API too many times (oops), but I'd say I had fun making this.
 		</p>
+		<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJu4pmYAaN5d8Hp4BjzfTc_-6c8dr8phmwrWF3zSGPEDVwk2NUrhPaw1__yrRQondtQdR-ZtGX8PX_/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		<ul class="actions">
 			<!-- <li><a href="hackathons.html" class="button next">Hackathon Projects</a></li> -->
 		</ul>

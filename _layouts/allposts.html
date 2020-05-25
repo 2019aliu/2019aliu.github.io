@@ -24,8 +24,8 @@
         <header class="major">
           <h1><a href="{{post.url}}"">{{ post.title }}</a></h1>
         </header>
-        {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}"
-            alt="Preview image for {{post.title}}" style='height: 40%; width: 40%' /></span>{% endif %}
+        {% if post.image %}<span class="image main"><a href="{{ post.url }}"><img src="{{ site.baseurl }}/{{ post.image }}"
+            alt="Preview image for {{post.title}}" style='height: auto; width: 60%' /></a></span>{% endif %}
         {% if post.date %}<p>Date Published: {{ post.date | date: "%Y-%m-%d, %H:%M"}}</p>{% endif %}
         {% if post.content contains '<!-- more -->' %}
           {{ post.content | split:'<!-- more -->' | first}}

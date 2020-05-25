@@ -10,18 +10,28 @@
   <body>
     {% include header.html %}
 
+    <section id="banner" class="style3">
+      <div class="inner">
+          <span class="image main">
+            <img
+              src="{{ site.baseurl }}{{ page.image }}"
+              alt="Photography Cover image"
+            />
+          </span>
+          <header class="major">
+            <h1>{{ page.title }}</h1>
+          </header>
+          <div class="content">
+            {{ page.description }}
+          </div>
+      </div>
+    </section>
+
     <!-- Main -->
     <div id="main" class="alt">
       <!-- One -->
       <section id="one">
         <div class="inner">
-          <h1>{{ page.title }}</h1>
-          <span class="image main">
-            <img
-              src="{{ site.baseurl }}{{ page.image }}"
-              alt="Photography Cover"
-            />
-          </span>
           {{ page.content }}
         </div>
       </section>
@@ -38,7 +48,7 @@
             <img
             src="../{{post.image}}"
             alt="{{post.description}}"
-            style="width: 60%;"
+            style="width: 60%; text-decoration: none;"
           />
           </a>
           {% endif %}

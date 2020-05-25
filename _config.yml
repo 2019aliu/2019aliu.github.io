@@ -3,8 +3,7 @@ title: Alex Liu
 subtitle: 
 email: 2019alexliu@gmail.com
 description: |
-  An autodidact interested in computer science
-  and its applications in biotech and sustainability.
+  An autodidact interested in computer science <br /> and its applications in biotech and sustainability.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//2019aliu.github.io" # the base hostname & protocol for your site
 author: 2019aliu

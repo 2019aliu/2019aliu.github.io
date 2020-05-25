@@ -2,7 +2,7 @@
 layout: post
 title: Blog Inspiration
 description: Laying out a general outline for this website
-image: assets/images/pic10.jpg
+image: assets/images/stock/pic10.jpg
 blog_option: true
 categories: blog
 date: 2020-5-3 11:15:59

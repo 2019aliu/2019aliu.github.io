@@ -3,6 +3,7 @@ layout: page
 title: Hackathons
 description: Projects I've made from hackathons
 image: assets/images/stock/pic09.jpg
+style: 5
 nav-menu: true
 show_tile: false
 ---
