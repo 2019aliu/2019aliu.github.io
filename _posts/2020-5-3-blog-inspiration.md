@@ -5,7 +5,7 @@ description: Laying out a general outline for this website
 image: assets/images/pic10.jpg
 blog_option: true
 categories: blog
-date: 2020-5-3 11:15:59 EDT (UTC-04:00)
+date: 2020-5-3 11:15:59
 ---
 
 I'm not sure why this is a post and not in the [Website Structure post]({% post_url 2020-5-3-website-structure %}). Anyway.

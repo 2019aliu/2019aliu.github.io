@@ -5,7 +5,7 @@ description: Laying out a general outline for this website
 image: assets/images/pic03.jpg
 blog_option: true
 categories: blog
-date: 2020-5-3 11:02:00 EDT (UTC-04:00)
+date: 2020-5-3 11:02:00
 ---
 
 I'm writing this in a separate post because I wanted to test out the chronological sorting on this website, but it looks like it works, yay! (I also fell asleep writing this, oh well)
