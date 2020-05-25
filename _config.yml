@@ -23,6 +23,8 @@ collections:
   piano:
     output: true
 
+timezone: America/New_York
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6

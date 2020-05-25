@@ -5,7 +5,7 @@ description: I finally finished recording my first video
 image: assets/images/yourlieinapril.jpg
 blog_option: true
 categories: blog
-date: 2020-5-23 23:45:00
+date: 2020-5-23 23:45:00 
 ---
 
 I finally finished recording my first video for the piano page (of hopefully many)! My god that was kinda painful.
