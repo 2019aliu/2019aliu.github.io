@@ -26,7 +26,7 @@
         </header>
         {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}"
             alt="Preview image for {{post.title}}" style='height: 40%; width: 40%' /></span>{% endif %}
-        {% if post.date %}<p>Date Published: {{ post.date }}</p>{% endif %}
+        {% if post.date %}<p>Date Published: {{ post.date | date: "%Y-%m-%d, %H:%M"}}</p>{% endif %}
         {% if post.content contains '<!-- more -->' %}
           {{ post.content | split:'<!-- more -->' | first}}
         {% else %}
@@ -34,6 +34,7 @@
         {% endif %}
         <a href="{{ post.url }}">read more</a>
         <!-- <p>{{ post.content | truncatewords:50 }}</p> -->
+        <p>&nbsp;</p>
         {% endif %}
         {% endfor %}
       </div>

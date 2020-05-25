@@ -15,30 +15,33 @@
       <!-- One -->
       <section id="one">
         <div class="inner">
-          <h1>Piano</h1>
+          <h1>{{ page.title }}</h1>
           <span class="image main">
             <img
-              src="{{ site.baseurl }}/assets/images/piano.jpg"
-              alt="Piano image"
+              src="{{ site.baseurl }}{{ page.image }}"
+              alt="Photography Cover"
             />
           </span>
-
-          <h4 class="header">
-            Playing music is fun! Currently, I play a variety of music,
-            including anime, jazz, classical, and popular. Fill the form down
-            below if you would like to suggest me to cover other songs!
-          </h4>
+          {{ page.content }}
         </div>
       </section>
 
       <!-- Two -->
       <section id="twp">
         <div class="inner">
-          {% for post in site.piano %} {% if post.title != 404 %}
+          {% for post in site.photo %} {% if post.title != 404 %}
           <header class="major">
             <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
           </header>
-          {% include youtubePlayer.html id=post.youtubeId %} 
+          {% if post.image %}
+          <a href="{{post.url}}">
+            <img
+            src="../{{post.image}}"
+            alt="{{post.description}}"
+            style="width: 60%;"
+          />
+          </a>
+          {% endif %}
           {% if post.content contains '<!-- more -->' %} 
           {{post.content | split:'<!-- more -->' | first}} 
           {% else %} 

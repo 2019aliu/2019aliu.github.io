@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: Hackathons
 description: Projects I've made from hackathons
-image: assets/images/pic09.jpg
+image: assets/images/stock/pic09.jpg
 nav-menu: true
 show_tile: false
 ---
@@ -24,7 +24,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/axyyu/hacknow" target="_blank" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/talknow.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ show_tile: false
 	</section>
 	<section>
 		<a href="https://coronavirus-digest.herokuapp.com" target="_blank" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/coronadigest.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ show_tile: false
 	</section>
 	<section>
 		<a href="https://github.com/2019aliu/CreatingTheNext" target="_blank" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/creatingthenext.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,23 +73,6 @@ show_tile: false
 			</div>
 		</div>
 	</section>
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>FoxStocks (UGAHacks 5)</h3>
-				</header>
-				<p>This hackathon had lots of sponsors who were in the finance industry, so my team choose to participate in a challenge to educate the general public about investing using a web application. We ended up building a game that simulated trading in a market and had multiple levels of difficulty.</p>
-				<ul class="actions">
-					<li><a href="https://devpost.com/software/foxstocks" class="button">Learn more</a></li>
-					<li><a href="https://github.com/2019aliu/UGAHacks" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section> -->
 </section>
 
 <!-- Three -->

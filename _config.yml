@@ -22,6 +22,8 @@ permalink: /:categories/:title/
 collections:
   piano:
     output: true
+  photo:
+    output: true
 
 timezone: America/New_York
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: Projects
 description: Look ma, I did a thing
-image: assets/images/pic08.jpg
+image: assets/images/stock/pic08.jpg
 nav-menu: true
 ---
 
