@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <!-- Main -->
+    <div id="main" class="alt">
+      <!-- One -->
+      <section id="one">
+        <div class="inner">
+          <h1>Piano</h1>
+          <span class="image main">
+            <img
+              src="{{ site.baseurl }}/assets/images/piano.jpg"
+              alt="Piano image"
+            />
+          </span>
+
+          <h4 class="header">
+            Playing music is fun! Currently, I play a variety of music,
+            including anime, jazz, classical, and popular. Fill the form down
+            below if you would like to suggest me to cover other songs!
+          </h4>
+        </div>
+      </section>
+
+      <!-- Two -->
+      <section id="twp">
+        <div class="inner">
+          {% for post in site.piano %} {% if post.title != 404 %}
+          <header class="major">
+            <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+          </header>
+          {% include youtubePlayer.html id=post.youtubeId %} 
+          {% if post.content contains '<!-- more -->' %} 
+          {{post.content | split:'<!-- more -->' | first}} 
+          {% else %} 
+          {{post.excerpt }} 
+          {% endif %}
+          <a href="{{ post.url }}">read more</a>
+          {% endif %} {% endfor %}
+          <p>&nbsp;</p>
+          {{ content }}
+        </div>
+      </section>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

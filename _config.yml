@@ -6,7 +6,7 @@ description: |
   An autodidact interested in computer science
   and its applications in biotech and sustainability.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "//2019aliu.github.io" # the base hostname & protocol for your site
 author: 2019aliu
 street_address: 9908 Mill Run Drive
 city: Great Falls
@@ -19,6 +19,9 @@ plugins:
   - jekyll-google-photos
 
 permalink: /:categories/:title/
+collections:
+  piano:
+    output: true
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -4,12 +4,15 @@ title: Blog Inspiration
 description: Laying out a general outline for this website
 image: assets/images/pic10.jpg
 blog_option: true
+categories: blog
 date: 2020-5-3 11:15:59 EDT (UTC-04:00)
 ---
 
-I'm not sure why this is a post and not in the [Website Structure post]({% post_url 2020-5-3-website_structure %}). Anyway.
+I'm not sure why this is a post and not in the [Website Structure post]({% post_url 2020-5-3-website-structure %}). Anyway.
 
-Many times, I've had thoughts about the different aspects of life that I never get to write down. Whether I'd be in bed, in the shower, walking somewhere, riding a bus/car/train/you name it, or taking a break from something intense, when all of a sudden, I have an inspirational thought that I wish I could just record directly from my brain. See, the ideal solution would to just stick some metal (idk an electroencephalogram (EEG) or better than that) and just be able to listen to the thoughts in your head. But that would cause a lot of legal issues and that's no fun. So for now, we're stuck with plain old writing.
+Many times, I've had thoughts about the different aspects of life that I never get to write down. Whether I'd be in bed, in the shower, walking somewhere, riding a bus/car/train/you name it, or taking a break from something intense, when all of a sudden, I have an inspirational thought that I wish I could just record directly from my brain. <!-- more -->
+
+See, the ideal solution would to just stick some metal (idk an electroencephalogram (EEG) or better than that) and just be able to listen to the thoughts in your head. But that would cause a lot of legal issues and that's no fun. So for now, we're stuck with plain old writing.
 
 At first, I wrote everything on notepads, but none of them really sustained for a long period of time. Maybe I couldn't maintain the notepads for a long time because I need a light to see what I'm writing. Maybe I couldn't maintain the notepads for a long time because I held myself to writing on the notepad everyday (that would be a me problem, oops).
 

@@ -39,7 +39,7 @@ nav-menu: true
 		</header>
 		<p>Quite a bit of my freshman year of college was spent on going to hackathons, and through those experiences I've learned quite a bit about website development, data science, and more importantly, how to learn quickly. Check out the projects:</p>
 		<ul class="actions">
-			<li><a href="hackathons.html" class="button next">Hackathon Projects</a></li>
+			<li><a href="{{site.baseurl}}/hackathons" class="button next">Hackathon Projects</a></li>
 		</ul>
 	</div>
 </section>

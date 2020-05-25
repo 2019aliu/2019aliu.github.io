@@ -4,6 +4,7 @@ title: My first post!
 description: Testing out the blogging feature on this Jekyll template
 image: assets/images/pic02.jpg
 blog_option: true
+categories: blog
 date: 2020-5-3 01:15:25 EDT (UTC-04:00)
 ---
 
