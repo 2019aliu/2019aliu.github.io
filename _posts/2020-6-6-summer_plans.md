@@ -10,9 +10,9 @@ date: 2020-6-6 00:00:00
 
 We live in strange times. That can only call for good planning to straighten out the activities I want to engage in.
 
-<!-- more -->
-
 I've been involved primarily with software development to hone my technical skills for interviews in the fall. My internship this summer luckily did not get canceled (yay!), so I've been busy with that for four weeks now (I started on May 11th).
+
+<!-- more -->
 
 Besides that, now as a member of the Developer Student Club, I'm now responsible for a project about managing the recycling facilities in Georgia Tech. Why did I do this to myself? I'm not sure, maybe I have brain damage maybe I don't and am just really stupid (that was a joke by the way).
 

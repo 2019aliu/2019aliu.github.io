@@ -1,7 +1,7 @@
 # site settings
 title: Alex Liu
 subtitle: 
-email: 2019alexliu@gmail.com
+email: alexyliuxyz@gmail.com
 description: |
   An autodidact interested in computer science <br /> and its applications in biotech and sustainability.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,43 +14,32 @@ zip_code: 22066
 country: United States of America
 phone: (703) 220-5928
 
-gems: 
-  - jekyll-paginate-v2
-
-plugins:
-  - jekyll-google-photos
-
-pagination:
-  collection: 'blog'
-  per_page: 3
-
-permalink: /:categories/:title/
-collections:
-  piano:
-    output: true
-  photo:
-    output: true
-
-timezone: America/New_York
-
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings
-500px_url:
-facebook_url: https://www.facebook.com/profile.php?id=100009566604368
-github_url: https://github.com/2019aliu
-gitlab_url: https://gitlab.com/2019aliu
-googleplus_url: 
-instagram_url: https://instagram.com/alexyliu1/
-linkedin_url: https://www.linkedin.com/in/alex-liu-146a47190/
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/2019aliu
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/2019aliu
+  GitLab:
+  Google-Plus:
+  Instagram: https://instagram.com/alexyliu1
+  LinkedIn: https://www.linkedin.com/in/alex-liu-146a47190
+  Twitter: https://twitter.com/2019aliu
+  Facebook: https://www.facebook.com/profile.php?id=100009566604368
+  Slack:
 
 # build settings
 markdown: kramdown
 
 sass:
   style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 

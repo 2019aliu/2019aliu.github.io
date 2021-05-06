@@ -1,13 +1,8 @@
-source "https://rubygems.org"
-gemspec
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.0"
-
-gem "jekyll-google-photos", "~> 1.4"
-
-gem "nokogiri", "~> 1.10"
+gem 'jekyll', '~> 4.2'
+gem 'webrick'
 
 group :jekyll_plugins do
-    gem "jekyll-paginate-v2"
-    gem "jekyll-feed"
+  gem 'jekyll-timeago', '~> 0.13.1'
 end
