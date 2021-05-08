@@ -5,7 +5,7 @@ email: alexyliuxyz@gmail.com
 description: |
   An autodidact interested in computer science <br /> and its applications in biotech and sustainability.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "//2019aliu.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: 2019aliu
 street_address: 9908 Mill Run Drive
 city: Great Falls
@@ -37,6 +37,10 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+collections:
+  piano:
+    output: true
 
 exclude:
 - "*.gemspec"

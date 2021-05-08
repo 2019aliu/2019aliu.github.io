@@ -12,18 +12,16 @@
 
     <section id="banner" class="style4">
       <div class="inner">
-          <span class="image main">
-            <img
-              src="{{ site.baseurl }}/assets/images/piano.jpg"
-              alt="Piano image"
-            />
-          </span>
-          <header class="major">
-            <h1>{{ page.title }}</h1>
-          </header>
-          <div class="content">
-            {{ page.description }}
-          </div>
+        <span class="image main">
+          <img
+            src="{{ site.baseurl }}/assets/images/piano.jpg"
+            alt="Piano image"
+          />
+        </span>
+        <header class="major">
+          <h1>{{ page.title }}</h1>
+        </header>
+        <div class="content">{{ page.description }}</div>
       </div>
     </section>
 
@@ -33,9 +31,10 @@
       <section id="one">
         <div class="inner">
           <h4 class="header">
-            Playing music is fun! Currently, I play a variety of music,
-            including anime, jazz, classical, and popular. Fill the form down
-            below if you would like to suggest me to cover other songs!
+            This part of the site contains my piano covers. Currently, I play a
+            variety of music, including jazz, classical, and OSTs. Fill the form
+            at the bottom of the page if you have suggestions for music you
+            would like me to cover!
           </h4>
         </div>
       </section>
@@ -47,16 +46,12 @@
           <header class="major">
             <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
           </header>
-          {% include youtubePlayer.html id=post.youtubeId %} 
-          {% if post.content contains '<!-- more -->' %} 
-          {{post.content | split:'<!-- more -->' | first}} 
-          {% else %} 
-          {{post.excerpt }} 
-          {% endif %}
+          {% include youtubePlayer.html id=post.youtubeId %} {% if post.content
+          contains '<!-- more -->' %} {{post.content | split:'<!-- more -->' |
+          first}} {% else %} {{post.excerpt }} {% endif %}
           <a href="{{ post.url }}">read more</a>
           <p>&nbsp;</p>
-          {% endif %} {% endfor %}
-          {{ content }}
+          {% endif %} {% endfor %} {{ content }}
         </div>
       </section>
     </div>

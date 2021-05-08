@@ -8,11 +8,9 @@ nav-menu: true
 
 ## In Progress
 
-### Blue Bird - Ikimono-Gakari
-
-### Guren no Yumiya - Linked Horizon
-
-### Original Composition
+- Clair de Lune
+- Watermelon Man
+- Fly me to the moon
 
 ## Background
 
@@ -30,6 +28,6 @@ Nonetheless, I still kept playing piano in my free time, whenever I wasn't playi
 
 In high school, I started picking up a few songs because some other kids I hung out with started playing songs from Japanese animes. We all started getting sheet music from a YouTuber named Animenz, and we started competing against each other to see who could learn things the fastest. While I was never at the front of the pack, I still had a lot of fun playing these pieces, and it brought us together through the sometimes challenging curriculum we had in school.
 
-College was a better time for me to exploe piano, because I had more time on my hands. Albeit, there was more to be done, but I had more flexibility, so I could sit down in front of the keyboard in my floor's lounge for hours at a time and play. The kids living next to the lounge were probably disgusted by the numerous times I messed up a part from Blue Bird (3rd opening from Naruto Shippuden), or heard the Nintendo Mii theme while trying to study (shoutout to my dudes Jalen Borne and Ethan Sirak for encouraging me though). Oh well.
+College was a better time for me to explore piano, because I had more time on my hands. Albeit, there was more to be done, but I had more flexibility, so I could sit down in front of the keyboard in my floor's lounge for hours at a time and play. The kids living next to the lounge could probably tell you to the numerous times I've practiced a difficult part from Blue Bird (3rd opening from Naruto Shippuden), or heard the Nintendo Mii theme at 100% volume while trying to study. Oh well.
 
-In light of the coronavirus pandemic, I wanted to start some hobbies that I never found the time for, and this piano page was one of them. Hope you enjoy, and feel free to explore the rest of the site!
+Hope you enjoyed reading this, and feel free to explore the rest of the site!
