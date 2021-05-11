@@ -8,9 +8,12 @@ nav-menu: true
 
 ## In Progress
 
-- Clair de Lune
-- Watermelon Man
-- Fly me to the moon
+- Definitely happening:
+  - Clair de Lune, Debussy
+- Potentially happening:
+  - Don't Mean a Thing, Duke Ellington Cover / Friend Like Me, Aladdin
+  - Watermelon Man, Herbie Hancock
+  - Fly me to the moon, YungMoon LoFi cover
 
 ## Background
 
