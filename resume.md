@@ -42,7 +42,7 @@ nav-menu: true
 <section id="two">
     <div class="inner">
     <p>
-        I am currently looking for summer internships for both 2020 and 2021. If you would like to contact me, you can fill the form out below, or reach out to me via the many contact methods I have listed below. Thanks!
+        I am currently looking for full time positions as of the Fall 2022. If you would like to contact me, you can fill the form out below, or reach out to me via the many contact methods I have listed below. Thanks!
     </p>
     </div>
 </section>

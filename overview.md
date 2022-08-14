@@ -17,7 +17,7 @@ show_tile: true
 			<h2>Hello! Nice to meet you</h2>
 		</header>
 		<p>
-		Welcome to my personal webpage! Here, you'll find out everything about me, including my personal projects, industry experience, and more. I love to learn, particularly about computer science and its applications in other fields. My main hobbies since I was a little kid are swimming and playing the piano.
+		Welcome to my personal webpage! Here, you'll find out everything about me, including my personal projects, industry experience, and more. I currently study computer science at Georgia Tech, and when I have time, I like to make food, workout, and swim.
 		<br/><br/>
 		Feel free to explore the site! Keep reading for more information on the highlights of this website.
 		</p>
@@ -35,7 +35,7 @@ show_tile: true
 				<header class="major">
 					<h3>Projects</h3>
 				</header>
-				<p>Here, you'll find most of my publicly available projects, including my long-term projects and hackathon work. Computer science is an ever expanding field with seemingly infinite possibilities, so I like taking some free time to use (and break) these tools. I discovered computer science in high school, and never put it down since.</p>
+				<p>Here, you'll find most of my publicly available projects, including my long-term projects. I like taking some free time to use (and break) these tools.</p>
 				<ul class="actions">
 					<li><a href="{{site.baseurl}}/projects" class="button">Projects</a></li>
 				</ul>
@@ -43,6 +43,8 @@ show_tile: true
 		</div>
 	</section>
 	<section>
+	</section>
+	<!-- <section>
 		<a href="{{site.baseurl}}/piano" class="image">
 			<img src="{% link assets/images/piano.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -73,7 +75,7 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
